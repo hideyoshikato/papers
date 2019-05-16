@@ -1,13 +1,10 @@
-# papers0
+# papers
 
 論文のサマリーを置くリポジトリです。  
 
 ## Paper summary
 論文のサマリーはIssueにまとめています。  
 
-
-## Progress
-サマリの進捗はGitHub Projectsで管理しています。  
 
 
 ## Format
